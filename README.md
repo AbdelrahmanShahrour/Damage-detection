@@ -10,7 +10,7 @@ prj files:
 ```python
 git clone https://github.com/AbdelrahmanShahrour/Damage-detection.git
 ```
-2. get data and models files from this [here](https://drive.google.com/drive/folders/1vXaD8z2J_kbh8oDU4rNcyuPoXgjOSRKs?usp=sharing)
+2. get data and models files from [here](https://drive.google.com/drive/folders/1vXaD8z2J_kbh8oDU4rNcyuPoXgjOSRKs?usp=sharing)
 
 ![image](https://github.com/AbdelrahmanShahrour/Damage-detection/blob/main/output/Screenshot%20from%202022-11-27%2014-34-48.png?raw=true) 
 
