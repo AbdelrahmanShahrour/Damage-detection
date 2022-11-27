@@ -1,11 +1,14 @@
 # Damage-detection
+
+![image](https://github.com/AbdelrahmanShahrour/Damage-detection/blob/main/damage-prj.png?raw=true) 
+
 prj files:
 
 ## step 1: download all files
 
 1. clone my repo
 ```python
-git clone 
+git clone https://github.com/AbdelrahmanShahrour/Damage-detection.git
 ```
 2. get data and models files from this [here](https://drive.google.com/drive/folders/1vXaD8z2J_kbh8oDU4rNcyuPoXgjOSRKs?usp=sharing)
 
