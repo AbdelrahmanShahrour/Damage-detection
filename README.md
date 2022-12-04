@@ -10,7 +10,7 @@ prj files:
 ```python
 git clone https://github.com/AbdelrahmanShahrour/Damage-detection.git
 ```
-2. get data and models files from [here](https://drive.google.com/drive/folders/1vXaD8z2J_kbh8oDU4rNcyuPoXgjOSRKs?usp=sharing)
+2. Extract data file
 
 ![image](https://github.com/AbdelrahmanShahrour/Damage-detection/blob/main/output/Screenshot%20from%202022-11-27%2014-34-48.png?raw=true) 
 
@@ -37,4 +37,4 @@ jupyter notebook
 ![image](https://github.com/AbdelrahmanShahrour/Damage-detection/blob/main/output/Screenshot%20from%202022-11-27%2014-33-28.png?raw=true) 
 ![image](https://github.com/AbdelrahmanShahrour/Damage-detection/blob/main/output/Screenshot%20from%202022-11-27%2014-33-37.png?raw=true) 
 
-# step 5: enjoy and develop this project and share his with me 😁👍🏻
+# step 5: enjoy and develop this project and share it with me 😁👍🏻
